@@ -30,6 +30,7 @@
 
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+    
 </head>
 
 <body>
@@ -68,8 +69,14 @@
                             </div>
                         </div>
                         <a href="contact.html" class="nav-item nav-link">Contact</a>
+                        <div class="nav-item dropdown">
+                            <a href="#" class="nav-link dropdown-toggle btn btn-primary py-2 px-4 mt-4" data-bs-toggle="dropdown">Login</a>
+                            <div class="dropdown-menu m-0">
+                                <a href="#" class="dropdown-item">Admin</a>
+                                <a href="#" class="dropdown-item">User</a>
+                            </div>
+                        </div>
                     </div>
-                    <a href="" class="btn btn-primary py-2 px-4">Book A Table</a>
                 </div>
             </nav>
 

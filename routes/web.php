@@ -24,3 +24,5 @@ Route::get('/index',[App\Http\Controllers\KateringController::class,'index'])->n
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+// Route::get('/user', [App\Http\Controllers\UserController::class, 'index'])->name('user')->middleware('auth');
