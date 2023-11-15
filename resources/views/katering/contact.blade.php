@@ -94,9 +94,12 @@
         <!-- Reservation Start -->
         <div class="container-xxl px-0 wow fadeInUp" data-wow-delay="0.1s">
             <div class="row g-0">
-                <div class="col-md-6">
+                <div class="col-md-6 ">
                     <div class="video">
                         <button type="button" class="btn-play" data-bs-toggle="modal" data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-bs-target="#videoModal">
+                            <!-- <div class="col-9"> -->
+                                <!-- <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.1s" src="img/logo3.png"> -->
+                            <!-- </div> -->
                             <span></span>
                         </button>
                     </div>

@@ -159,7 +159,7 @@
                             <div class="p-4">
                                 <i class="fa fa-3x fa-headset text-primary mb-4"></i>
                                 <h5>24/7 Service</h5>
-                                <p>24 jam online untuk melayani anda</p>
+                                <p>24 jam terbuka untuk menerima pesanan anda dimana pun anda berada dan kapan pun</p>
                             </div>
                         </div>
                     </div>
