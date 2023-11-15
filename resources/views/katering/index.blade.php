@@ -114,7 +114,7 @@
                             <a href="menu" class="btn btn-primary py-sm-3 px-sm-5 me-3 animated slideInLeft">Daftar Menu</a>
                         </div>
                         <div class="col-lg-6 text-center text-lg-end overflow-hidden">
-                            <img class="img-fluid" src="img/hero.png" alt="">
+                            <img class="img-fluid" src="img/removelogo2.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -658,7 +658,7 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="team-item text-center rounded overflow-hidden">
                             <div class="rounded-circle overflow-hidden m-4">
-                                <img class="img-fluid" src="img/logo4.png" alt="">
+                                <img class="img-fluid" src="img/removelogo2.png" alt="">
                             </div>
                             <h5 class="mb-3">Mohammad Barradja Yahya</h5>
                             <small>Radjaa</small>
@@ -668,7 +668,7 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="team-item text-center rounded overflow-hidden">
                             <div class="rounded-circle overflow-hidden m-4">
-                                <img class="img-fluid" src="img/logo4.png" alt="">
+                                <img class="img-fluid" src="img/removelogo2.png" alt="">
                             </div>
                             <h5 class="mb-3">Baihaqi Ilgar Rafsanjani</h5>
                             <small>Raffa</small>
@@ -678,7 +678,7 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="team-item text-center rounded overflow-hidden">
                             <div class="rounded-circle overflow-hidden m-4">
-                                <img class="img-fluid" src="img/logo4.png" alt="">
+                                <img class="img-fluid" src="img/removelogo2.png" alt="">
                             </div>
                             <h5 class="mb-1">Sekar Ayu Novisca</h5>
                            
