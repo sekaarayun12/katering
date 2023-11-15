@@ -48,8 +48,9 @@
         <div class="container-xxl position-relative p-0">
             <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-4 px-lg-5 py-3 py-lg-0">
                 <a href="/" class="navbar-brand p-0">
-                    <h1 class="text-primary m-0"><i class="fa fa-utensils me-3"></i>Radara </h1>
-                    <!-- <img src="img/logo.png" alt="Logo"> -->
+                <img src="img/removelogo2.png" alt="Logo">
+                    <!-- <h1 class="text-primary m-0">Radara </h1> -->
+                    
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                     <span class="fa fa-bars"></span>
@@ -657,7 +658,7 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="team-item text-center rounded overflow-hidden">
                             <div class="rounded-circle overflow-hidden m-4">
-                                <img class="img-fluid" src="img/logo pkkwu.png" alt="">
+                                <img class="img-fluid" src="img/logo4.png" alt="">
                             </div>
                             <h5 class="mb-3">Mohammad Barradja Yahya</h5>
                             <small>Radjaa</small>
@@ -667,7 +668,7 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="team-item text-center rounded overflow-hidden">
                             <div class="rounded-circle overflow-hidden m-4">
-                                <img class="img-fluid" src="img/logo pkkwu.png" alt="">
+                                <img class="img-fluid" src="img/logo4.png" alt="">
                             </div>
                             <h5 class="mb-3">Baihaqi Ilgar Rafsanjani</h5>
                             <small>Raffa</small>
@@ -677,7 +678,7 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="team-item text-center rounded overflow-hidden">
                             <div class="rounded-circle overflow-hidden m-4">
-                                <img class="img-fluid" src="img/logo pkkwu.png" alt="">
+                                <img class="img-fluid" src="img/logo4.png" alt="">
                             </div>
                             <h5 class="mb-1">Sekar Ayu Novisca</h5>
                            
